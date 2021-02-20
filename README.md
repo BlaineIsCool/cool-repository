@@ -1,1 +1,1 @@
-# cool-repository
+# for python projects
